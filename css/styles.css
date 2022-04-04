@@ -16,6 +16,10 @@ p.mid {
 	line-height: 0.6;
   }
 
+p.mid1 {
+	line-height: 0.3;
+  }
+
 @media (min-width: 576px) {
 	html {
 		font-size: 14px;
